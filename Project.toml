@@ -1,0 +1,9 @@
+name = "FITSTables"
+uuid = "7c1f5dd0-abd1-46fd-a3fe-70b5915849d6"
+authors = ["Adam Wheeler <a.wheeler@columbia.edu>"]
+version = "0.1.0"
+
+[deps]
+FITSIO = "525bcba6-941b-5504-bd06-fd0dc1a4d2eb"
+KernelDensity = "5ab0869b-81aa-558d-bb23-cbf5423bbe9b"
+Tables = "bd369af6-aec1-5ad0-b16a-f7cc5008161c"
