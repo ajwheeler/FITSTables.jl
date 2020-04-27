@@ -1,7 +1,7 @@
 name = "FITSTables"
 uuid = "7c1f5dd0-abd1-46fd-a3fe-70b5915849d6"
 authors = ["Adam Wheeler <a.wheeler@columbia.edu>"]
-version = "0.1.0"
+version = "0.1.1"
 
 [deps]
 FITSIO = "525bcba6-941b-5504-bd06-fd0dc1a4d2eb"
